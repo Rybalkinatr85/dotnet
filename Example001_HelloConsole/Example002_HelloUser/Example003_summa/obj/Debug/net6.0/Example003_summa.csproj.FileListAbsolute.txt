@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\bin\Debug\net6.0\Example003_summa.exe
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\bin\Debug\net6.0\Example003_summa.deps.json
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\bin\Debug\net6.0\Example003_summa.runtimeconfig.json
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\bin\Debug\net6.0\Example003_summa.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\bin\Debug\net6.0\Example003_summa.pdb
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\refint\Example003_summa.dll
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.pdb
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\Example003_summa.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Обучение GB\3сurs\Examples\Example001_HelloConsole\Example002_HelloUser\Example003_summa\obj\Debug\net6.0\ref\Example003_summa.dll
